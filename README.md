@@ -2,7 +2,7 @@
 
 Made on Python Django&amp;Rest_api
 
-!read with raw/blame!
+!read README file with raw/blame!
 
 DIRECTED URLS :
 
